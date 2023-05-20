@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Andrei
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+QA;Second+line+of+text)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=QA+Engineer;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **budn1k-qa/budn1k-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
