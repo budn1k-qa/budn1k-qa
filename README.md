@@ -6,5 +6,5 @@
 ### 🟠 About me:
 
 I'm begginer QA Engineer  
-✔ Completed course [![ARusau Courses](https://img.shields.io/badge/A.Rusau-by%20Specialization%20Junior%20%2B-yellow)](https://artsiomrusau.com/)
+✔ Completed course  [![ARusau Courses](https://img.shields.io/badge/A.Rusau-by%20Specialization%20Junior%20%2B-yellow)](https://artsiomrusau.com/)
 
