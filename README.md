@@ -18,7 +18,7 @@
 ### 🟢 Internship  
 Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150C?style=plastic&logo=android)  
  
-- <span style=background-color:MediumBlue>Wear Audio Recorder</span> (30.04.23 - today)
+- <color style=background-color:green>Wear Audio Recorder</color> (30.04.23 - today)
 
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=plastic&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) 
 [![Firebase](https://img.shields.io/badge/Firebase-090909?style=plastic&logo=Firebase&logoColor=ffa500)](https://firebase.google.com/)
@@ -26,7 +26,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 [![Qase](https://img.shields.io/badge/Qase-090909?style=plastic&logo=Qase&logoColor=ff00ff)](https://qase.io)  
 📈 *test cases from scratch, bug-reports, other documentation for project*  
 
-- <span style=background-color:MediumBlue>Date AI</span> (14.05.23 - today)   
+- <span style=background-color:green>Date AI</span> (14.05.23 - today)   
 
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=flat&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=me.tyschenko.dateai)
 [![GoogleDocs](https://img.shields.io/badge/Google-Docs-090909?style=flat&logo=Google-Docs&logoColor=007BB6)](https://docs.google.com/)  
@@ -77,17 +77,14 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=A52A2A"/>&nbsp
 <img src="https://img.shields.io/badge/edge-black?style=for-the-badge&logo=microsoft edge&logoColor=blue"/>&nbsp
 <img src="https://img.shields.io/badge/opera-black?style=for-the-badge&logo=opera&logoColor=red"/>
-</div>
+</div>  
 <div>
 <img src="https://img.shields.io/badge/android 9-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
 <img src="https://img.shields.io/badge/android 11-black?style=for-the-badge&logo=android&logoColor=green"/>  
 </div>  
 <img src="https://img.shields.io/badge/samsung J3/A50/A70-black?style=for-the-badge&logo=samsung&logoColor=white"/>
 
-
-
 ---
-
 
 ###  🟣 Social media
 
