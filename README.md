@@ -16,9 +16,10 @@
 ---
 
 ### 🟢 Internship  
-Mobile app testing based on ![Android](https://img.shields.io/badge/Android-05150C?style=plastic&logo=android)  
+Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150C?style=plastic&logo=android)  
  
 - Wear Audio Recorder (30.04.23 - today)  
+
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=plastic&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) 
 [![Firebase](https://img.shields.io/badge/Firebase-090909?style=plastic&logo=Firebase&logoColor=ffa500)](https://firebase.google.com/)
 [![ClickUp](https://img.shields.io/badge/ClickUp-090909?style=plastic&logo=ClickUp&logoColor=ff00ff)](https://app.clickup.com)
@@ -26,6 +27,7 @@ Mobile app testing based on ![Android](https://img.shields.io/badge/Android-0515
 📈 *test cases from scratch, bug-reports, other documentation for project*  
 
 - Date AI (14.05.23 - today)   
+
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=flat&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=me.tyschenko.dateai)
 [![GoogleDocs](https://img.shields.io/badge/Google-Docs-090909?style=flat&logo=Google-Docs&logoColor=007BB6)](https://docs.google.com/)  
     - *requirements for one of the modules Date AI*  
@@ -42,11 +44,7 @@ Mobile app testing based on ![Android](https://img.shields.io/badge/Android-0515
   <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-</div>
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -55,9 +53,16 @@ Mobile app testing based on ![Android](https://img.shields.io/badge/Android-0515
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 <div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+</div>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
   </div>
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -65,10 +70,12 @@ Mobile app testing based on ![Android](https://img.shields.io/badge/Android-0515
 </div>
 
 
+
+
 ---
 
 
-###  Social media
+###  🟣 Social media
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/budnik4388)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100006697063002)
