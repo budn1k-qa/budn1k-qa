@@ -5,6 +5,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/GodR1ck21)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:budn1k.qa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/andrei-budnik-3438b6274/)
+[![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/budn1k-qa)
+
 
 ---
 
@@ -17,8 +19,7 @@
 
 ### 🟢 Internship  
 Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150C?style=plastic&logo=android)  
- 
-- <color style=background-color:green>Wear Audio Recorder</color> (30.04.23 - today)
+- Wear Audio Recorder  (30.04.23 - today) 
 
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=plastic&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) 
 [![Firebase](https://img.shields.io/badge/Firebase-090909?style=plastic&logo=Firebase&logoColor=ffa500)](https://firebase.google.com/)
@@ -26,7 +27,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 [![Qase](https://img.shields.io/badge/Qase-090909?style=plastic&logo=Qase&logoColor=ff00ff)](https://qase.io)  
 📈 *test cases from scratch, bug-reports, other documentation for project*  
 
-- <span style=background-color:green>Date AI</span> (14.05.23 - today)   
+- Date AI (14.05.23 - today)   
 
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=flat&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=me.tyschenko.dateai)
 [![GoogleDocs](https://img.shields.io/badge/Google-Docs-090909?style=flat&logo=Google-Docs&logoColor=007BB6)](https://docs.google.com/)  
@@ -36,7 +37,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 
 ---
 
-### 🔵 Technologies & Tools  
+### 🔵 Technologies / Tools / Languages  
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="30" height="30"/>&nbsp
@@ -54,7 +55,8 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="30" height="30"/>&nbsp
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="30" height="30"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="30" height="30"/>&nbsp
+    <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="30" height="30"/>&nbsp
+    <img src="https://raw.githubusercontent.com/caputomarcos/node-red-contrib-swagger-js/master/icons/swagger.svg" title="swagger" alt="swagger" width="30" height="30"/>&nbsp
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>&nbsp
@@ -101,5 +103,4 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=budn1k-qa&style=flat-square&color=blue" alt="score"/>
-<a href="https://github.com/budn1k-qa/budn1k-qa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/budn1k-qa/budn1k-qa?label=Profile%20updated&style=flat-square"></a>
+<img src="https://komarev.com/ghpvc/?username=budn1k-qa&style=flat-square&color=blue" alt="score"/> <a href="https://github.com/budn1k-qa/budn1k-qa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/budn1k-qa/budn1k-qa?label=Profile%20updated&style=flat-square"></a>
