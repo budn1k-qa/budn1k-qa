@@ -80,6 +80,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 <img src="https://img.shields.io/badge/edge-black?style=for-the-badge&logo=microsoft edge&logoColor=blue"/>&nbsp
 <img src="https://img.shields.io/badge/opera-black?style=for-the-badge&logo=opera&logoColor=red"/>
 </div>  
+
 <div>
 <img src="https://img.shields.io/badge/android 9-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
 <img src="https://img.shields.io/badge/android 11-black?style=for-the-badge&logo=android&logoColor=green"/>  
