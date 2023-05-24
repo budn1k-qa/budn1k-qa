@@ -105,4 +105,3 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=budn1k-qa&style=flat-square&color=blue" alt="score"/> <a href="https://github.com/budn1k-qa/budn1k-qa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/budn1k-qa/budn1k-qa?label=Profile%20updated&style=flat-square"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=budn1k-qa)
