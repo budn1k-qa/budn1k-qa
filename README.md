@@ -72,6 +72,18 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 
 ---
 
+### 🟩 Test Artifacts  
+In my repo's  
+<div>
+    <url="https://github.com/budn1k-qa/web_testing.git">Web_testing</url>
+    <url="https://github.com/budn1k-qa/mobile_testing.git">Mobile_testing</url>
+    <url="https://github.com/budn1k-qa/postman.git">Postman_collections</url>
+    <url="https://github.com/budn1k-qa/databases.git">Databases</url>
+    <url="https://github.com/budn1k-qa/charles_proxy_vs_win10_and_android11.git">CharlesProxySetupInstruction</url>  
+</div>
+    
+---
+
 ### 🔴 Configuration  
 <img src="https://img.shields.io/badge/windows 10-black?style=for-the-badge&logo=windows&logoColor=blue"/>  
 <div>
