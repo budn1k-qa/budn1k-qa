@@ -17,6 +17,13 @@
 
 ---
 
+### 🔲 Curriculum Vitae  
+
+<a href="https://drive.google.com/drive/folders/1AaW05phSlqm-sFOzp0yAvvwbDB9pKt7Y" target="_blank">CV_eng</a>  
+<a href="https://drive.google.com/drive/folders/1cTomgirJ9NWPFBQUJ0LGny5pa3co57QO" target="_blank">CV_rus</a>  
+
+---
+
 ### 🟢 Internship  
 Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150C?style=plastic&logo=android)  
 - Wear Audio Recorder  (30.04.23 - today) 
