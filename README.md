@@ -19,6 +19,7 @@
 
 ### 🔲 Curriculum Vitae  
 
+<a href="https://github.com/budn1k-qa/CV" target="_blank">Github vesrsion</a>  
 <a href="https://drive.google.com/drive/folders/1AaW05phSlqm-sFOzp0yAvvwbDB9pKt7Y" target="_blank">CV_eng</a>  
 <a href="https://drive.google.com/drive/folders/1cTomgirJ9NWPFBQUJ0LGny5pa3co57QO" target="_blank">CV_rus</a>  
 
