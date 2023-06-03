@@ -116,7 +116,7 @@ In my repo's
 ---
 
 <p align="center">
-🟡 Have a good day!</p>
+🔸 Have a good day! 🔸</p>
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
