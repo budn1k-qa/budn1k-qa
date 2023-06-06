@@ -93,7 +93,7 @@ In my repo's
 
 ### 🔴 Configuration  
 
-<img src="https://img.shields.io/badge/windows 10-black?style=for-the-badge&logo=windows&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/windows 10-black?style=for-the-badge&logo=windows&logoColor=blue"/>
 <div>
 <img src="https://img.shields.io/badge/chrome-black?style=for-the-badge&logo=google chrome&logoColor=DAA520"/>&nbsp
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=A52A2A"/>&nbsp
