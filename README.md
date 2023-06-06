@@ -92,18 +92,18 @@ In my repo's
 ---
 
 ### 🔴 Configuration  
-<img src="https://img.shields.io/badge/windows 10-black?style=for-the-badge&logo=windows&logoColor=blue"/>
 <div>
+<img src="https://img.shields.io/badge/windows 10-black?style=for-the-badge&logo=windows&logoColor=blue"/>
 <img src="https://img.shields.io/badge/chrome-black?style=for-the-badge&logo=google chrome&logoColor=DAA520"/>&nbsp
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=A52A2A"/>&nbsp
 <img src="https://img.shields.io/badge/edge-black?style=for-the-badge&logo=microsoft edge&logoColor=blue"/>&nbsp
 <img src="https://img.shields.io/badge/opera-black?style=for-the-badge&logo=opera&logoColor=red"/>  
 </div>
 
-<img src="https://img.shields.io/badge/android 9-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
-<img src="https://img.shields.io/badge/android 11-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
-<img src="https://img.shields.io/badge/android 13-black?style=for-the-badge&logo=android&logoColor=green"/>  
 <div>
+<img src="https://img.shields.io/badge/android 9-black?style=for-the-badge&logo=android&logoColor=green"/>
+<img src="https://img.shields.io/badge/android 11-black?style=for-the-badge&logo=android&logoColor=green"/>
+<img src="https://img.shields.io/badge/android 13-black?style=for-the-badge&logo=android&logoColor=green"/>  
 <img src="https://img.shields.io/badge/samsung J3/A50/A70-black?style=for-the-badge&logo=samsung&logoColor=white"/>
 <img src="https://img.shields.io/badge/xiaomi 12-black?style=for-the-badge&logo=xiaomi&logoColor=white"/>  
 </div>
