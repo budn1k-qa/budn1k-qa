@@ -102,9 +102,11 @@ In my repo's
 
 <div>
 <img src="https://img.shields.io/badge/android 9-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
-<img src="https://img.shields.io/badge/android 11-black?style=for-the-badge&logo=android&logoColor=green"/>  
+<img src="https://img.shields.io/badge/android 11-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
+<img src="https://img.shields.io/badge/android 13-black?style=for-the-badge&logo=android&logoColor=green"/>
 </div>  
 <img src="https://img.shields.io/badge/samsung J3/A50/A70-black?style=for-the-badge&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/xiaomi 12-black?style=for-the-badge&logo=samsung&logoColor=white"/>  
 
 ---
 
