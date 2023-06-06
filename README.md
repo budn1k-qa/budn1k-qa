@@ -93,9 +93,9 @@ In my repo's
 
 ### 🔴 Configuration  
 <img src="https://img.shields.io/badge/windows 10-black?style=for-the-badge&logo=windows&logoColor=blue"/>  
-<img src="https://img.shields.io/badge/chrome-black?style=for-the-badge&logo=google chrome&logoColor=DAA520"/>&nbsp
-<img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=A52A2A"/>&nbsp
-<img src="https://img.shields.io/badge/edge-black?style=for-the-badge&logo=microsoft edge&logoColor=blue"/>&nbsp
+<img src="https://img.shields.io/badge/chrome-black?style=for-the-badge&logo=google chrome&logoColor=DAA520"/>
+<img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=A52A2A"/>
+<img src="https://img.shields.io/badge/edge-black?style=for-the-badge&logo=microsoft edge&logoColor=blue"/>
 <img src="https://img.shields.io/badge/opera-black?style=for-the-badge&logo=opera&logoColor=red"/>  
 
 <img src="https://img.shields.io/badge/android 9-black?style=for-the-badge&logo=android&logoColor=green"/>&nbsp
