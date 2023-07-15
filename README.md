@@ -11,7 +11,7 @@
 ---
 
 ### 🟠 About me 
-*I'm begginer QA Engineer*  
+*QA Engineer*  
 ✔ Completed course  
 [![ARusau](https://img.shields.io/badge/A.Rusau-by%20Specialization%20Junior%20%2B-yellow)](https://artsiomrusau.com)  
 
@@ -35,7 +35,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 [![Qase](https://img.shields.io/badge/Qase-090909?style=plastic&logo=Qase&logoColor=ff00ff)](https://qase.io)  
 📈 *test cases from scratch, bug-reports, other documentation for project*  
 
-- Date AI (14.05.23 - today)   
+- Date AI (14.05.23 - 15.06.23)   
 
 [![GooglePlay](https://img.shields.io/badge/Google-090909?style=flat&logo=Google-Play&logoColor=007BB6)](https://play.google.com/store/apps/details?id=me.tyschenko.dateai)
 [![GoogleDocs](https://img.shields.io/badge/Google-Docs-090909?style=flat&logo=Google-Docs&logoColor=007BB6)](https://docs.google.com/)  
