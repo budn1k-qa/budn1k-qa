@@ -62,7 +62,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 </div>
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="30" height="30"/>&nbsp
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="30" height="30"/>&nbsp
+  <img src="https://images.app.goo.gl/ii4YrxkhuxSgUeJE8" title="postman" alt="postman" width="30" height="30"/>&nbsp
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="30" height="30"/>&nbsp
     <img src="https://raw.githubusercontent.com/caputomarcos/node-red-contrib-swagger-js/master/icons/swagger.svg" title="swagger" alt="swagger" width="30" height="30"/>&nbsp
 </div>
@@ -107,8 +107,9 @@ In my repo's
 <img src="https://img.shields.io/badge/android 13-black?style=for-the-badge&logo=android&logoColor=green"/>
 </div>
 <div>
-<img src="https://img.shields.io/badge/samsung J3/A50/A70-black?style=for-the-badge&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/samsung J3/A70-black?style=for-the-badge&logo=samsung&logoColor=white"/>
 <img src="https://img.shields.io/badge/xiaomi 12-black?style=for-the-badge&logo=xiaomi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alcatel tkee mini 2-black?style=for-the-badge&logo=Alcatel&logoColor=white"/>
 </div>
 
 ---
