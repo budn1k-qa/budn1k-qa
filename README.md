@@ -62,7 +62,7 @@ Mobile app's QA Engineer - ![Android](https://img.shields.io/badge/Android-05150
 </div>
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="30" height="30"/>&nbsp
-  <img src="S/IT/Postman.svg" title="postman" alt="postman" width="30" height="30"/>&nbsp
+  <img src="https://simpleicons.org/icons/postman.svg" title="postman" alt="postman" width="30" height="30"/>&nbsp
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="30" height="30"/>&nbsp
     <img src="https://raw.githubusercontent.com/caputomarcos/node-red-contrib-swagger-js/master/icons/swagger.svg" title="swagger" alt="swagger" width="30" height="30"/>&nbsp
 </div>
